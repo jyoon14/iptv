@@ -44,24 +44,45 @@ https://nhk.lls.pbs.org/index_1080p.m3u8
 #EXTINF:-1 tvg-id="7367" tvg-name="CGTN" group-title="News",CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 
-# ---------- FOREIGN ----------
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24 French" group-title="Foreign",France 24 French
+# ---------- FRENCH ----------
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24 French" group-title="French",France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-name="BFM TV" group-title="Foreign",BFM TV
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-name="BFM TV" group-title="French",BFM TV
 https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 
-#EXTINF:-1 tvg-id="WELT.de@SD" tvg-name="WELT" group-title="Foreign",WELT
+# ---------- GERMAN ----------
+#EXTINF:-1 tvg-id="WELT.de@SD" tvg-name="WELT" group-title="German",WELT
 https://s6.hopslan.com/n24X/index.m3u8
 
-#EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-name="Tagesschau 24" group-title="Foreign",Tagesschau 24
+#EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-name="Tagesschau 24" group-title="German",Tagesschau 24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
-#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-name="RAI 1" group-title="Foreign",RAI 1
+# ---------- ITALIAN ----------
+#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-name="RAI 1" group-title="Italian",RAI 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
 
-#EXTINF:-1 tvg-id="410422" tvg-name="NHK World Premium" group-title="Foreign",NHK World Premium
+# ---------- JAPANESE ----------
+#EXTINF:-1 tvg-id="410422" tvg-name="NHK World Premium" group-title="Japanese",NHK World Premium
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
-#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-name="CCTV-4 Asia" group-title="Foreign",CCTV-4 Asia
+# ---------- MANDARIN ----------
+#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-name="CCTV-4 Asia" group-title="Mandarin",CCTV-4 Asia
 http://74.91.26.218:82/live/cctv4hd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="广州电视台 Guangzhou TV" group-title="Mandarin",广州电视台 Guangzhou TV
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+
+# ---------- CANTONESE ----------
+#EXTINF:-1 tvg-id="" tvg-name="Bread TV" group-title="Cantonese",Bread TV
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+
+# ---------- TRAVEL ----------
+#EXTINF:-1 tvg-id="" tvg-name="CGTN China Travel" group-title="Travel",CGTN China Travel
+https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/ts-us-w2-n2/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/cb563d007971669092cf2167d3f362ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da46852db80148b6f4adafb8c2360625f5c98435ee3b24aa0f7b45e418a65f4ac1b49c32858e68314c8c94ee8d4d746cc16d770a51c9bc7a6dedb11e0ceab4691a60424733a094fdbeb4a9cdc49be9ab1662b99705a297437c790e335caa1e43d277debf6cac50a9789799957e84a32b115d86c8d249329db613e565ed2cfef86382613a1ce4e2c23afafc7e09e6360ef32a9f0a8b5db1de8d2ff74c052b4f802522373b2e7d246fc35dcdc0296bd68520bc59e5097a77fe285bfa045862cc6cbf5d7680c1e234c358f53a6957ac869f34ce89f436f0c16049a935b92d2821e28341bcfc07fc40317bcec8e81f4072f8535480da6338f1b4d47e4004150a96df5933769c9010f863e32b218168850f3b529baf68fbc486bfb8e8912bf5ceeb30bc0ff4dfc3e6b1751e58059352f7b74deea691a2339921596b4e4d5375850a2a7b7bdaa351f0836105e09f192c4788981cd2c5d5b81642f6e701f008546b14dda13421421d914b1f85f94e4abafb057c1c39f826f62b2aeac58c5968c5f4764dd/46/640x360_1020618/index.m3u8
+
+#EXTINF:-1 tvg-id="AutenticTravel.de@SD" tvg-name="Autentic Travel (German)" group-title="Travel",Autentic Travel (German)
+https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeltderWunderTV.de@SD" tvg-name="Welt der Wunder (German)" group-title="Travel",Welt der Wunder (German)
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
