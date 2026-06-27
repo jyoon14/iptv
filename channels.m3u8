@@ -1,0 +1,67 @@
+#EXTM3U url-tvg="https://www.open-epg.com/generate/fYvM6XZVZm.xml,https://epg.pw/xmltv/epg_US.xml"
+# ============================================
+#  News Playlist
+#  Last updated: June 2026
+# ============================================
+
+# ---------- NEWS ----------
+#EXTINF:-1 tvg-id="ABC (WCVB) Boston, MA HD.us" tvg-logo="https://images.open-epg.com/42519.png" tvg-name="WCVB ABC 5 Boston" group-title="News",WCVB ABC 5 Boston
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX (WFXT) Boston, MA HD.us" tvg-logo="https://images.open-epg.com/42643.png" tvg-name="Boston 25 (WFXT)" group-title="News",Boston 25 WFXT
+https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+
+#EXTINF:-1 tvg-id="CNN HD.us" tvg-logo="https://images.open-epg.com/42589.png" tvg-name="CNN" group-title="News",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-name="ABC News Live" group-title="News",ABC News Live
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg TV USA HD.us" tvg-logo="https://images.open-epg.com/42560.png" tvg-name="Bloomberg TV" group-title="News",Bloomberg TV US
+https://bloomberg.com/media-manifest/streams/us.m3u8
+
+#EXTINF:-1 tvg-id="CNBC USA HD.us" tvg-logo="https://images.open-epg.com/10891126.png" tvg-name="CNBC" group-title="News",CNBC
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD" tvg-name="Fox Business" group-title="News",Fox Business Network
+https://trs1.aynaott.com/foxbusiness/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk@NorthAmerica" tvg-name="BBC News" group-title="News",BBC News HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+
+#EXTINF:-1 tvg-id="France24.fr@English" tvg-name="France 24 English" group-title="News",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="DW.de@English" tvg-name="DW English" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="411507" tvg-name="Arirang TV" group-title="News",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="6844" tvg-name="NHK World-Japan" group-title="News",NHK World-Japan
+https://nhk.lls.pbs.org/index_1080p.m3u8
+
+#EXTINF:-1 tvg-id="7367" tvg-name="CGTN" group-title="News",CGTN
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+
+# ---------- FOREIGN ----------
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24 French" group-title="Foreign",France 24 French
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
+
+#EXTINF:-1 tvg-id="BFMTV.fr@SD" tvg-name="BFM TV" group-title="Foreign",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+
+#EXTINF:-1 tvg-id="WELT.de@SD" tvg-name="WELT" group-title="Foreign",WELT
+https://s6.hopslan.com/n24X/index.m3u8
+
+#EXTINF:-1 tvg-id="tagesschau24.de@SD" tvg-name="Tagesschau 24" group-title="Foreign",Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+
+#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-name="RAI 1" group-title="Foreign",RAI 1
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="410422" tvg-name="NHK World Premium" group-title="Foreign",NHK World Premium
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4Asia.cn@SD" tvg-name="CCTV-4 Asia" group-title="Foreign",CCTV-4 Asia
+http://74.91.26.218:82/live/cctv4hd.m3u8
