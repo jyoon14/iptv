@@ -44,6 +44,14 @@ https://nhk.lls.pbs.org/index_1080p.m3u8
 #EXTINF:-1 tvg-id="7367" tvg-name="CGTN" group-title="News",CGTN
 https://english-livebkali.cgtn.com/live/encgtn.m3u8
 
+
+# ---------- GOV ----------
+#EXTINF:-1 tvg-id="" tvg-name="C-SPAN" group-title="Gov",C-SPAN
+http://40.160.24.52/C-SPAN_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="C-SPAN 2" group-title="Gov",C-SPAN 2
+http://40.160.24.52/C-SPAN_2/index.m3u8
+
 # ---------- FRENCH ----------
 #EXTINF:-1 tvg-id="France24.fr@French" tvg-name="France 24 French" group-title="French",France 24 French
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
