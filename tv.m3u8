@@ -9,7 +9,7 @@
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX (WFXT) Boston, MA HD.us" tvg-logo="https://images.open-epg.com/42643.png" tvg-name="Boston 25 (WFXT)" group-title="News",Boston 25 WFXT
-https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+https://amg00327-coxmediagroup-wfxtnow-ono-00yau.amagi.tv/ts-us-e2-n2/playlist/amg00327-coxmediagroup-wfxtnow-ono/2122ca47-9e2d-11f1-b325-3a9c84cbd567/72/1920x1080_7619040/index.m3u8
 
 #EXTINF:-1 tvg-id="CNN HD.us" tvg-logo="https://images.open-epg.com/42589.png" tvg-name="CNN" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
